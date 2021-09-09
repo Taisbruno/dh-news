@@ -1,0 +1,37 @@
+h1 {
+    color: red;
+    font-family: sans-serif;
+    width:800px;
+    /* espaçamento externo: top/bottom 0, left/right automatico */
+    margin: 0 auto;
+
+}
+
+h5{
+    font-family: sans-serif;
+    width:800px;
+    /* espaçamento externo: top/bottom 0, left/right automatico */
+    margin: 0 auto;
+
+}
+
+section {
+    font-family: sans-serif;
+    width:800px;
+    /* espaçamento externo: top/bottom 0, left/right automatico */
+    margin: 0 auto;
+
+}
+
+footer{
+    font-family: sans-serif;
+    width:800px;
+    /* espaçamento externo: top/bottom 0, left/right automatico */
+    margin: 0 auto;
+    text-align:center;
+
+}
+
+footer img {
+    margin-right: 10px;
+}
